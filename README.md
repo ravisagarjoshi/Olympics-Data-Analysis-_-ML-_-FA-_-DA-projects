@@ -15,6 +15,7 @@ and understanding the dataset, performing exploratory data analysis (EDA), and
 uncovering trends and insights related to athletes, countries, and sports over the
 years.
 We'll use the following columns for our analysis:
+
 ● City: The city where the Olympics took place.
 ● Year: The year of the Olympics.
 ● Sport: The sport the event is categorized under.
